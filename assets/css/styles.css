@@ -93,7 +93,7 @@ img{
   right: 0;
   margin: auto;
   top: 2rem;
-  background-color: var(--first-color);
+  background-color: bisque;
 }
 .section{
   padding-top: 3rem;
@@ -136,7 +136,7 @@ img{
     width: 80%;
     height: 100%;
     padding: 2rem;
-    background-color: var(--second-color);
+    background-color: #300a4e;
     transition: .5s;
   }
 }
@@ -157,7 +157,7 @@ img{
   height: 0.18rem;
   left: 0;
   top: 2rem;
-  background-color: var(--first-color);
+  background-color: bisque;
 }
 .nav__logo{
   color: var(--second-color);
@@ -176,7 +176,7 @@ img{
   height: 0.18rem;
   left: 0;
   top: 2rem;
-  background-color: var(--first-color);
+  background-color: bisque;
 }
 
 /*=== Show menu ===*/
