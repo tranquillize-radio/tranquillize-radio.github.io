@@ -357,10 +357,18 @@ img{
   margin-bottom: var(--mb-4);
 }
 .footer__icon{
+  display: inline-block;
   font-size: 1.5rem;
-  color: #fff;
-  margin: 0 var(--mb-2)
+  color: bisque;
+  margin: 0 var(--mb-2);
+  transition: 0.5s ease-out;
 }
+
+.footer__icon:hover{
+  transform: scale(1.5);
+  color: rgb(252, 221, 50);
+}
+
 
 /* ===== MEDIA QUERIES=====*/
 @media screen and (min-width: 768px){
